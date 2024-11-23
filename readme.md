@@ -20,7 +20,7 @@
   
 </div>
 
-# UI mod to introduce a Gesture to delete commands
+# UI mod to introduce a gesture to delete commands
 
 This UI mod adds a basic gesture detection to allow you to delete commands while in command mode. This is in particular useful when you do not use hotkeys. Often I find myself in the situation that I miss placed a build order. When you do not use hotkeys, this looks like:
 
